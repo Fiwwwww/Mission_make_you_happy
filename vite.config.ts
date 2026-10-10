@@ -3,4 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/Mission_make_you_happy/',
 })
